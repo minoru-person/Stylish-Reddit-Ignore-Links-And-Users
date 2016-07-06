@@ -7,4 +7,6 @@ Thanks to Stylish (https://userstyles.org), Johannes (https://userstyles.org/sty
 Why? 
 I was tired of reading endless streams of twitter posts and click bait links on certain subreddits. By using this code I have a custom reddit experience. You can too.
 
+Creative Commons License
+
 
