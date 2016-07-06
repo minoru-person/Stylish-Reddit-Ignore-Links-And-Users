@@ -6,8 +6,8 @@ Stylish used for Reddit to ignore sponsors, ignore twitter posts, ignore espn li
 
 Thanks to Stylish (https://userstyles.org), Johannes (https://userstyles.org/styles/84353/reddit-hide-sponsored-links) and w3schools.com(http://www.w3schools.com).
 
-Why? 
-I was tired of reading endless streams of twitter posts and click bait links on certain subreddits. By using this code I have a custom reddit experience. You can too.
+What's the purpose?
+I was tired of reading endless streams of twitter posts and click bait links on certain subreddits. By using this code I am able to enjoy a custom reddit experience.
 
 Creative Commons License
 
