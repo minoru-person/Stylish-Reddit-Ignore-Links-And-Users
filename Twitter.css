@@ -1,0 +1,19 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("reddit.com") {
+  
+  /*For hiding twitter posts and sponsor links on reddit*/
+  
+ .promoted {
+  display: none !important;
+ }
+  
+  div[data-domain="twitter.com"] {
+    display: none !important;
+  }
+
+  div[data-domain="mobile.twitter.com"] {
+    display: none !important;
+  }
+
+}
