@@ -9,6 +9,6 @@ Thanks to Stylish (https://userstyles.org), Johannes (https://userstyles.org/sty
 What's the purpose?
 I was tired of reading endless streams of twitter posts and click bait links on certain subreddits. By using this code I am able to enjoy a custom reddit experience.
 
-Creative Commons License
+MIT License
 
 
