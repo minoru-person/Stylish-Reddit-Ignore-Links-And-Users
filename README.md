@@ -8,6 +8,6 @@ Thanks to Stylish (https://userstyles.org), Johannes (https://userstyles.org/sty
 
 
 
-MIT License
+
 
 
