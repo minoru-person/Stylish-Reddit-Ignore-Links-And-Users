@@ -1,69 +1,30 @@
-/*
-The following is the code I used when browsing the sports section of Reddit via the Stylish browser extension. 
-For more information on stylish, you can check out 
-https://en.wikipedia.org/wiki/Stylish.
-
-Thanks to Johannes. His Stylish browser extensions can be found on
-https://userstyles.org/styles/84353/reddit-hide-sponsored-links
-
-I added custom links to Johannes's code to personalise my reddit experience. 
-
-You can modify this code by adding links that you want to ignore.  
-
-div[data-domain="linksYouWantToIgnore.com"]{
-  display: none!important;
-}
-
-You can ignore posts made by certain redditors by using "data-author". 
-E.g. if you want to ignore posts made by author "Dan123it", you would insert this code
-
-div[data-author="Dan123it"] {
-    background-color: black !important;
-}
-
-It's not pretty.
-
-You can learn more about Css selectors from
-http://www.w3schools.com/cssref/css_selectors.asp
-
-*/
-
-@namespace url(http://www.w3.org/1999/xhtml);
-
-@-moz-document domain("reddit.com") {
+ @namespace url(http://www.w3.org/1999/xhtml); 
   
  .promoted {
   display: none !important;
  }
   
- /* ignore twitter posts */  
-  div[data-domain="twitter.com"]{
-    display: none !important;
+  div[data-domain="streamable.com"] {
+    display: inline !important;
   }
   
-  /* ignore espn.go.com posts */
-  div[data-domain="espn.go.com"]{
-    display: none !important;
+  div[data-domain="youtube.com"] {
+    display: inline !important;
   }
   
-  /* ignore mobile.twitter.com posts */
-  div[data-domain="mobile.twitter.com"]{
-    display: none !important;
+  div[data-domain="gfycat.com"] {
+    display: inline !important;
   }
   
-  /* ignore espnfc.com posts */
-  div[data-domain="espnfc.com"]{
-    display: none !important;
+  div[data-domain="youtu.be"] {
+    display: inline !important;
   }
   
-  /*ignore skyspots.com posts */
-  div[data-domain="skysports.com"]{
-    display: none !important;
+  div[data-domain="my.mixtape.moe"] {
+    display: inline !important;
   }
-  
-  /*ignore thesun.co.uk posts */
-  div[data-domain="thesun.co.uk"]{
-    display: none !important;
-  }
-  
+ 
+  div [data-domain]{
+    display: none;
 }
+
