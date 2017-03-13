@@ -8,6 +8,5 @@ Thanks to Stylish (https://userstyles.org), Johannes (https://userstyles.org/sty
 
 
 
-
-
-
+#FuturePlan
+Enable code on /r/nfl.
