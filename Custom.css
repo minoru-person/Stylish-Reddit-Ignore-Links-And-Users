@@ -66,10 +66,4 @@ http://www.w3schools.com/cssref/css_selectors.asp
     display: none !important;
   }
   
-  /*
-  ignore posts made by reddit user Dan123it
-  div[data-author="Dan123it"] {
-    background-color: black !important;
-  }
-  */
 }
