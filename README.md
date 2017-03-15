@@ -1,4 +1,4 @@
-# Stylish-Reddit-Ignore-Links-And-Users
+# Stylish-Reddit-Ignore-Links-And-Users 0.1
 
 For FireFox
 
