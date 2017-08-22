@@ -1,40 +1,39 @@
- @namespace url(http://www.w3.org/1999/xhtml); 
+@namespace url(http://www.w3.org/1999/xhtml); 
   
- @-moz-document domain("reddit.com") {
- .promoted {
-  display: none !important;
- }
+@-moz-document domain("reddit.com") {
+    .promoted {
+        display: none !important;
+    }
   
-  div[data-domain="streamable.com"] {
-    display: inline !important;
-  }
+    div[data-domain="streamable.com"] {
+        display: inline !important;
+    }
   
-  div[data-domain="youtube.com"] {
-    display: inline !important;
-  }
+    div[data-domain="youtube.com"] {
+        display: inline !important;
+    }
   
-  div[data-domain="gfycat.com"] {
-    display: inline !important;
-  }
+    div[data-domain="gfycat.com"] {
+        display: inline !important;
+    }
   
-  div[data-domain="youtu.be"] {
-    display: inline !important;
-  }
+    div[data-domain="youtu.be"] {
+        display: inline !important;
+    }
   
-  div[data-domain="my.mixtape.moe"] {
-    display: inline !important;
-  }
+    div[data-domain="my.mixtape.moe"] {
+        display: inline !important;
+    }
       
-  div[data-domain="u.nya.is"] {
-    display: inline !important;
-  }  
+    div[data-domain="u.nya.is"] {
+        display: inline !important;
+    }  
  
-  div[data-domain="clippituser.tv"] {
-    display: inline !important;
-  }    
+    div[data-domain="clippituser.tv"] {
+        display: inline !important;
+    }    
        
-  div [data-domain]{
-    display: none;
-  }
+    div [data-domain]{
+        display: none;
+    }
 }
-
